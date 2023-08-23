@@ -5,7 +5,7 @@
 
 # Bare-Bones
 
-The bare-bones Chrome Extension set-up. A solid, simple foundation to build and learn from.
+The bare-bones data collection Chrome extension setup. A simple interface for collecting, storing, and downloading html elements from any page.
 
 # Features
 
