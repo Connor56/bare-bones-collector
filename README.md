@@ -19,11 +19,12 @@ The bare-bones data collection Chrome extension setup. A simple interface for co
 
 # Tutorial
 
-If you're interested in seeing how this extension was built, you can follow my [tutorial on medium]().
+If you're interested in seeing how this extension was built, you can follow my [tutorial on medium](https://medium.com/@dr.connor/building-a-basic-data-collection-chrome-extension-a2c9075ca876).
+
 
 ### Preview:
 <p align="center">
-<a href="https://medium.com/@dr.connor/how-to-build-a-basic-chrome-extension-8e6b054caca6">
-  <img src="">
+<a href="(https://github.com/Connor56/bare-bones-collector/assets/34070858/35ae7bfc-4353-431c-a132-ce1b9b10a9ad)">
+  <img src="https://github.com/Connor56/bare-bones-collector/assets/34070858/35ae7bfc-4353-431c-a132-ce1b9b10a9ad">
 </a>
 </p>
