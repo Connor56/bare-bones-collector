@@ -30,7 +30,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
         saveAs: true,
       })
       .then(() => {
-        chrome.runtime.sendMessage(sender.tab.id, {
+        chrome.tabs.sendMessage(sender.tab.id, {
           action: "revokeBlob",
           blobURL: message.blobURL,
         });
